@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeverDie System</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0f172a;
+            color: #e5e7eb;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #020617, #020617);
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        header p {
+            font-size: 1.25rem;
+            max-width: 800px;
+            margin: 0 auto;
+            color: #cbd5f5;
+        }
+        section {
+            padding: 3rem 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        section h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #f8fafc;
+        }
+        section p {
+            margin-bottom: 1rem;
+        }
+        ul {
+            margin-left: 1.25rem;
+            margin-bottom: 1rem;
+        }
+        footer {
+            background-color: #020617;
+            padding: 2rem;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #94a3b8;
+        }
+        .tagline {
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            color: #60a5fa;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="tagline">Resilient Systems for an Unpredictable World</div>
+    <h1>NeverDie System</h1>
+    <p>The NeverDie System is a resilience-focused technology platform designed to help communities, facilities, and critical operations remain functional during disruption.</p>
+</header>
+
+<section>
+    <h2>The Problem</h2>
+    <p>Across the Great Lakes region, infrastructure systems are aging faster than they are being replaced. Environmental stress, climate volatility, and resource constraints increasingly threaten continuity.</p>
+    <ul>
+        <li>Aging infrastructure and deferred maintenance</li>
+        <li>Increasing climate and environmental disruption</li>
+        <li>Static, fragmented emergency planning</li>
+        <li>Systems that fail under real-world stress</li>
+    </ul>
+</section>
+
+<section>
+    <h2>The Solution</h2>
+    <p>The NeverDie System prioritizes continuity over reaction. It is designed to support operations before, during, and after disruption.</p>
+    <ul>
+        <li>Modular, adaptable system design</li>
+        <li>Integration with existing infrastructure</li>
+        <li>Decentralized and fault-tolerant principles</li>
+        <li>Deployable, real-world focused solutions</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Who It’s For</h2>
+    <p>NeverDie is being developed for organizations responsible for critical systems and public reliability.</p>
+    <ul>
+        <li>Municipalities and regional authorities</li>
+        <li>Infrastructure and facility operators</li>
+        <li>Utility-adjacent organizations</li>
+        <li>Public-sector and resilience partners</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Current Status</h2>
+    <p>NeverDie System is currently in early validation and system design, focused on customer discovery and preparing for pilot deployments. The company is pre-revenue and pre-seed.</p>
+</section>
+
+<section>
+    <h2>Why the Great Lakes</h2>
+    <p>The Great Lakes region is a critical convergence point for water, energy, infrastructure, and climate systems. NeverDie is being built with regional realities in mind, supporting long-term stability and resilience.</p>
+</section>
+
+<section>
+    <h2>About the Founder</h2>
+    <p>NeverDie System is founder-led by Jeffrey Love, Jr. The founder brings a multidisciplinary background in systems thinking, creative innovation, and technology-enabled problem solving.</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p><strong>NeverDie System</strong><br>
+    Founder: Jeffrey Love, Jr<br>
+    Region: Great Lakes<br>
+    Email: your@email.com<br>
+    LinkedIn: linkedin.com/in/yourprofile</p>
+</section>
+
+<footer>
+    © 2026 NeverDie System. All rights reserved.<br>
+    Early-stage concept under development.
+</footer>
+
+</body>
+</html>
